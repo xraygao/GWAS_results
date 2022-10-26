@@ -1,6 +1,6 @@
 Intraocular pressure exome-wide summary statistis, 
 
-- white folder, white-ony results, n = 98,674 
+- white folder, white-only results, n = 98,674 
 
  - pan_ancestry folder, pan-ancestry results, n = 110,260
 
