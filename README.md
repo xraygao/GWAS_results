@@ -1,4 +1,4 @@
-Intraocular pressure exome-wide summary statistis, 
+Intraocular pressure exome-wide summary statistics, 
 
 - white folder, white-only results, n = 98,674 
 
